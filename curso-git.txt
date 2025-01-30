@@ -1,0 +1,4 @@
+o que é git?
+
+git e um sistema de controle de verção 
+sempre que for necessário ele vai salvar o storico de nofificaçãoes e arquivos
